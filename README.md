@@ -7,6 +7,8 @@ I'll be using a dataset from Kaggle called [DFL - Bundesliga Data Shootout](http
 
 The main objective of this project is to try to detect and track football players in order to determine statistics such as each player's speed, distance covered and ball possession for each team.
 
+## Plan
+
 Therefore, I'll be using YOLO to detect and track the players. I'll also train the model using datasets on Roboflow to improve the output of the base model.
 - Differentiate between goalkeepers and players and detect referees
 - Improving ball detection and tracking accuracy
